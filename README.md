@@ -20,3 +20,8 @@
 ## 📸 项目部分截图
 <img width="1009" height="507" alt="446306b32f804eda048641de42185bb7" src="https://github.com/user-attachments/assets/8251da53-af73-437b-8137-9aeecc9e7b4b" />
 
+## 👨‍💻 作者
+**[刘乐媛]**
+- GitHub: [@minaliu61] (https://github.com/minaliu61)
+- Email：minaliu561@gmail.com / 1145068665@qq.com
+- Phone: +86 17817281152
