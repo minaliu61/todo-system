@@ -1,0 +1,12 @@
+# IDE
+.idea/
+.vscode/
+
+# vite / vue
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# 日志
+*.log
